@@ -14,5 +14,5 @@
 采用paddleclas进行图像分类任务。  
 **paddleclas**官方文档连接如下：  
 >[https://gitee.com/paddlepaddle/PaddleClas/blob/release/2.2/docs/zh_CN/tutorials/quick_start_new_user.md](https://gitee.com/paddlepaddle/PaddleClas/blob/release/2.2/docs/zh_CN/tutorials/quick_start_new_user.md)
-## 笔记本参考如下：
+## 飞桨笔记本参考如下：
 >[https://aistudio.baidu.com/aistudio/projectdetail/2245287](https://aistudio.baidu.com/aistudio/projectdetail/2245287)
